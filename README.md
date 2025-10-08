@@ -41,8 +41,8 @@ Il permet d’invoquer des boss puissants en sacrifiant certains matériaux.
 - [x] 3 nouveaux minerais (Mithril, Obsidium, Hellsteel)  
 - [x] Autel ancien fonctionnel  
 - [x] Boss démon invoquable  
-- [ ] Correction du bug de l’œuf d’Artisan
-- [x] nouveau biome avec structure de l'autel ancien   
+- [x] Nouveau biome avec structure de l’autel ancien  
+- [ ] Correction du bug de l’œuf d’Artisan  
 - [ ] Nouvelles armes et armures uniques  
 - [ ] Extension du système de rituels  
 - [ ] Nouvelles dimensions et boss à venir  
@@ -54,7 +54,7 @@ Il permet d’invoquer des boss puissants en sacrifiant certains matériaux.
 | Élément | Version |
 |----------|----------|
 | **Minecraft** | 1.21.4 |
-| **Mod Loader** | neoForge |
+| **Mod Loader** | NeoForge |
 | **Créé avec** | MCreator |
 
 ---
@@ -63,10 +63,6 @@ Il permet d’invoquer des boss puissants en sacrifiant certains matériaux.
 
 Développé par **staxar**  
 Inspiré par les forges anciennes et les puissances du Nether.
-
----
-
-
 
 ---
 
