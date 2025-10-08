@@ -41,7 +41,8 @@ Il permet d’invoquer des boss puissants en sacrifiant certains matériaux.
 - [x] 3 nouveaux minerais (Mithril, Obsidium, Hellsteel)  
 - [x] Autel ancien fonctionnel  
 - [x] Boss démon invoquable  
-- [ ] Correction du bug de l’œuf d’Artisan  
+- [ ] Correction du bug de l’œuf d’Artisan
+- [x] nouveau biome avec structure de l'autel ancien   
 - [ ] Nouvelles armes et armures uniques  
 - [ ] Extension du système de rituels  
 - [ ] Nouvelles dimensions et boss à venir  
