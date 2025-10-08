@@ -60,7 +60,7 @@ Il permet d’invoquer des boss puissants en sacrifiant certains matériaux.
 
 ## 🧙‍♂️ Auteur
 
-Développé par **momoria**  
+Développé par **staxar**  
 Inspiré par les forges anciennes et les puissances du Nether.
 
 ---
