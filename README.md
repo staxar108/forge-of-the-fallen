@@ -53,7 +53,7 @@ Il permet d’invoquer des boss puissants en sacrifiant certains matériaux.
 | Élément | Version |
 |----------|----------|
 | **Minecraft** | 1.21.4 |
-| **Mod Loader** | Forge |
+| **Mod Loader** | neoForge |
 | **Créé avec** | MCreator |
 
 ---
@@ -65,10 +65,7 @@ Inspiré par les forges anciennes et les puissances du Nether.
 
 ---
 
-## 📜 Licence
 
-Ce mod est distribué à des fins personnelles et expérimentales.  
-Toute réutilisation, modification ou redistribution sans autorisation est interdite.
 
 ---
 
